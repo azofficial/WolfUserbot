@@ -3,7 +3,6 @@
 
 import asyncio , time
 from telethon import events
-from userbot import StartTime
 from platform import uname
 from userbot import CMD_HELP, ALIVE_NAME, wolfversion , wolfdef
 from userbot.utils import admin_cmd,sudo_cmd
